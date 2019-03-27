@@ -1,0 +1,8 @@
+{
+  "name": "graphql-schema-ast",
+  "version": "1.0.0",
+  "description": "Package to generate an ast for GraphQL Schema Definition",
+  "main": "index.js",
+  "author": "Jannis Jorre <jannis@jorre.dev>",
+  "license": "ISC"
+}
