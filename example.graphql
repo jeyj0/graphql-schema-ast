@@ -1,4 +1,8 @@
-type Query {}
+type Foo{ random: Int name: String }
+
+type Query {
+  ex: [Foo!]
+}
 
 type Mutation {}
 
